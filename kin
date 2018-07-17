@@ -1,0 +1,2 @@
+#!/bin/sh
+echo boeken.pdf | mutt -s "Boeken" janjoris@free.kindle.com -a boeken.pdf

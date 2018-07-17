@@ -1,0 +1,38 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% Time-stamp: <File boeken.tex saved at 10:11:35 CET on Friday 2017-12-29, by janjoris on nash.lan.>
+%
+% boeken.tex
+%
+% Main file books database.
+%
+% (c) 1996-2017 Jan Joris Vereijken
+%
+
+\documentclass[dutch,twocolumn]{article}
+
+\usepackage[a4paper,margin=2.0cm]{geometry}
+
+\usepackage{babel,amstext,pxfonts,ifpdf}
+
+\usepackage[T1]{fontenc}
+
+\input{bibmac}
+
+\input{boekhyph}
+
+\input{pdfspec-boeken}
+
+\hbadness=2400
+
+\title{Boeken}
+\author{Jan Joris Vere\ij{}ken}
+
+\begin{document}
+   \maketitle
+   \nocite{*}
+   \bibliographystyle{jjvdutch}
+   \renewcommand{\refname}{\vskip-2.65ex}
+   \footnotesize
+   \bibliography{boekafk,nedlit,englit,andlit,nedove,engove,andove,luister,jotter}
+\end{document}

@@ -1,0 +1,10 @@
+#!/bin/sh
+bibtex luister
+bibtex boeken
+pdflatex luister
+pdflatex luister
+pdflatex boeken
+pdflatex boeken
+chmod 644 *.pdf
+zip boeken *.tex *.bib *.bst *.ent *.pdf bi bu p c d g x kin pl upl
+unzip -v boeken.zip

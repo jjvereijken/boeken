@@ -1,0 +1,6 @@
+#!/bin/sh
+chmod 644 boeken.pdf 
+scp -p boeken.zip shell.xs4all.nl:upl/boeken-`date +%Y%m%d`.zip
+scp -p boeken.pdf shell.xs4all.nl:WWW/pdf
+scp -p boeken.pdf wales.lan:/var/www/www.janjoris.nl/pdf
+scp -p luister.pdf wales.lan:/var/www/www.janjoris.nl/pdf
