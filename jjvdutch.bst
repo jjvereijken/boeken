@@ -1,4 +1,6 @@
 %%
+%% Time-stamp: <File jjvdutch.bst saved at 18:19:49 CEST on Wednesday 2018-07-18, by janjoris on suus.>
+%%
 %% This is file `jjvdutch.bst', generated 
 %% on <1996/7/8> with the docstrip utility (2.2i).
 %% 
