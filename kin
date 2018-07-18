@@ -1,6 +1,0 @@
-#!/bin/sh
-#
-# Time-stamp: <File kin saved at 18:11:43 CEST on Wednesday 2018-07-18, by janjoris on hilbert.lan.>
-#
-
-echo boeken.pdf | mutt -s "Boeken" janjoris@free.kindle.com -a boeken.pdf
