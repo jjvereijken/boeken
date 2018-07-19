@@ -8,3 +8,5 @@ Als je het script [bu][] runt krijg je een file
 met mijn boeken, en een file
 <A HREF="https://www.janjoris.nl/pdf/luister.pdf">luister.pdf</A>
 met mijn luisterboeken.
+
+[bu]: bu
