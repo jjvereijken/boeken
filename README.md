@@ -1,4 +1,4 @@
-<!--- Time-stamp: <File README.md saved at 14:20:05 CEST on Thursday 2018-07-19, by janjoris on ritchie.>  --->
+<!--- Time-stamp: <File README.md saved at 14:21:34 CEST on Thursday 2018-07-19, by janjoris on ritchie.>  --->
 
 # boeken
 
@@ -7,7 +7,7 @@
 In deze lijst hou ik bij welke boeken ik heb. Dat doe ik vooral voor mezelf,
 met name om geen dubbele te kopen, maar voel je vrij om mee te lezen.
 
-De files [boeken.tex][] en [luister.tex][] zijn de top level LaTeX files. In de *.bib files
+De files [boeken.tex][] en [luister.tex][] zijn de top-level LaTeX files. In de *.bib files
 vind je alle entries voor boeken. Dubbele entries zijn geen fouten; dat zijn boeken die ik
 dubbel heb.
 
