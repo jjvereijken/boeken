@@ -1,6 +1,8 @@
-<!--- Time-stamp: <File README.md saved at 14:16:14 CEST on Thursday 2018-07-19, by janjoris on ritchie.>  --->
+<!--- Time-stamp: <File README.md saved at 14:20:05 CEST on Thursday 2018-07-19, by janjoris on ritchie.>  --->
 
-# boeken - Boeken van Jan Joris Vereijken
+# boeken
+
+## Boeken van Jan Joris Vereijken
 
 In deze lijst hou ik bij welke boeken ik heb. Dat doe ik vooral voor mezelf,
 met name om geen dubbele te kopen, maar voel je vrij om mee te lezen.
