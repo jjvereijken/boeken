@@ -1,3 +1,5 @@
+<!--- Time-stamp: <File README.md saved at 14:16:14 CEST on Thursday 2018-07-19, by janjoris on ritchie.>  --->
+
 # boeken - Boeken van Jan Joris Vereijken
 
 In deze lijst hou ik bij welke boeken ik heb. Dat doe ik vooral voor mezelf,
