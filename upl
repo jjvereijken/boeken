@@ -1,10 +1,10 @@
 #!/bin/sh
 #
-# Time-stamp: <File upl saved at 18:11:40 CEST on Wednesday 2018-07-18, by janjoris on hilbert.lan.>
+# Time-stamp: <File upl saved at 23:15:54 CEST on Saturday 2018-07-21, by janjoris on suus.>
 #
 
 chmod 644 boeken.pdf 
 scp -p boeken.zip shell.xs4all.nl:upl/boeken-`date +%Y%m%d`.zip
 scp -p boeken.pdf shell.xs4all.nl:WWW/pdf
-scp -p boeken.pdf wales.lan:/var/www/www.janjoris.nl/pdf
-scp -p luister.pdf wales.lan:/var/www/www.janjoris.nl/pdf
+scp -p boeken.pdf luister.pdf wales.lan:/var/www/www.janjoris.nl/pdf
+cp -pv boeken.pdf luister.pdf /remote/nfs1/data/rep/www.janjoris.nl/root/pdf
