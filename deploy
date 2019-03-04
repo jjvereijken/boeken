@@ -1,9 +1,9 @@
 #!/bin/sh
 #
-# Time-stamp: <File deploy saved at 23:26:28 CEST on Saturday 2018-07-21, by janjoris on suus.>
+# Time-stamp: <File deploy saved at 15:12:14 CET on Monday 2019-03-04, by janjoris on sinclair.>
 #
 
-chmod 644 boeken.pdf 
+chmod 644 /remote/nfs1/data/rep/boeken/*.pdf
 cp -pv boeken.pdf luister.pdf /remote/nfs1/data/rep/www.janjoris.nl/root/pdf
 cd /remote/nfs1/data/rep/www.janjoris.nl
 git add root/pdf/boeken.pdf root/pdf/luister.pdf
