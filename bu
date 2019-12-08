@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# Time-stamp: <File bu saved at 11:20:51 CEST on Tuesday 2018-07-31, by janjoris on sinclair.>
+# Time-stamp: <File bu saved at 20:15:48 CET on Sunday 2019-12-08, by janjoris on suus.>
 #
 
 bibtex luister
@@ -10,5 +10,5 @@ pdflatex luister
 pdflatex boeken
 pdflatex boeken
 chmod -R u=rwX,g=rwX,o= .
-zip boeken *.tex *.bib *.bst *.ent *.pdf bi bu c d deploy g p pl upl
+zip boeken *.tex *.bib *.bst *.ent *.pdf bi bu a c d deploy g p pl upl
 unzip -v boeken.zip
