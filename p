@@ -1,6 +1,6 @@
 #!/bin/sh
 #
-# Time-stamp: <File p saved at 18:11:41 CEST on Wednesday 2018-07-18, by janjoris on hilbert.lan.>
+# Time-stamp: <File p saved at 11:43:30 CET on Monday 2023-11-13, by janjoris on dijkstra.>
 #
 
-xreader boeken.pdf &
+evince boeken.pdf &
