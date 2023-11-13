@@ -1,6 +1,6 @@
 alias bi	bash bi
 alias bu	bash bu
-alias c		bash c
+alias ca	bash ca
 alias d		bash d
 alias deploy	bash deploy
 alias g		bash g
